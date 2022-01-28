@@ -13,7 +13,7 @@
 # How to: Use ApplicationJumpListService
 
 
-This example demonstrates how to use the ApplicationJumpListService.
+This example demonstrates how to use the [ApplicationJumpListService](https://docs.devexpress.com/WPF/18163/mvvm-framework/services/predefined-set/applicationjumplistservice) from the [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml).
 
 <br/>
 
