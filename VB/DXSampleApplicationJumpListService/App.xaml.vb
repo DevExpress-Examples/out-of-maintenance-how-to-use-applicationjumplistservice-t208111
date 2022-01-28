@@ -1,7 +1,8 @@
-﻿Imports System.Windows
+Imports System.Windows
 
 Namespace DXSampleApplicationJumpListService
-    Partial Public Class App
+
+    Public Partial Class App
         Inherits Application
 
     End Class
